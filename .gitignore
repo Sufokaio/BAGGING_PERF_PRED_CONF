@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+**/__pycache__/
+
+# Virtual environment
+venv/
+.venv/
+
+# Results folder
+results_old/
+
+
+
+
+
+times.txt
