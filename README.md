@@ -1,4 +1,4 @@
-# On the Design and Evaluation of Bagging-Based Ensembles for Configurable Software Performance Prediction
+# On the Use of Bagging Ensembles for Configurable Software Performance Prediction
 
 This repository contains the source code, the data used, and the raw
 results for each experiment from the corresponding paper.
